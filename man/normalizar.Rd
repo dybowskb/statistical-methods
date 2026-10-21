@@ -2,18 +2,18 @@
 % Please edit documentation in R/basicas.R
 \name{normalizar}
 \alias{normalizar}
-\title{Normalización \link{0,1}}
+\title{Normalization to the range 0 to 1}
 \usage{
 normalizar(x)
 }
 \arguments{
-\item{x}{Vector numérico.}
+\item{x}{Numeric vector.}
 }
 \value{
-Vector reescalado a \link{0,1}. Si min==max devuelve ceros.
+Vector scaled from 0 to 1. If min equals max, returns zeros.
 }
 \description{
-Normalización \link{0,1}
+Normalization to the range 0 to 1
 }
 \examples{
 normalizar(1:10)

@@ -1,10 +1,9 @@
-#' misalumnos: Funciones básicas en español para docencia
+
+#' misalumnos: Statistical Functions for Students
 #'
-#' Conjunto de utilidades con nombres en español para facilitar a los alumnos
-#' el uso de R sin memorizar de golpe las funciones en inglés. Incluye
-#' funciones de estadística descriptiva, transformación, correlación, regresión
-#' y gráficos simples, además de un generador de datos de ejemplo.
+#' A collection of statistical functions for educational purposes.
+#' Includes descriptive statistics, normalization, correlation,
+#' regression, plots, and probability distributions.
 #'
-#' @docType package
-#' @name misalumnos
-NULL
+#' @keywords internal
+"_PACKAGE"
